@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="SWG Elder Haven — A Morrowind/Retro RPG Based SWG Experience">
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="0.5" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="#8f8f8f"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#24398a"/>
+      <stop offset="1" stop-color="#071f66"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="4" dy="5" stdDeviation="2.2" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="300" fill="#c8c8c8"/>
+  <rect x="24" y="52" width="852" height="190" rx="5" fill="url(#frame)" stroke="#111" stroke-width="4" filter="url(#shadow)"/>
+  <rect x="32" y="63" width="835" height="168" fill="#d4d4d4" stroke="#fff" stroke-width="2"/>
+
+  <circle cx="146" cy="145" r="105" fill="#bfbfbf" stroke="#3b3b3b" stroke-width="5" filter="url(#shadow)"/>
+  <circle cx="146" cy="145" r="91" fill="#08122f" stroke="#efefef" stroke-width="5"/>
+  <circle cx="114" cy="112" r="24" fill="#c9c9c9"/>
+  <circle cx="106" cy="105" r="5" fill="#9a9a9a"/>
+  <circle cx="120" cy="119" r="6" fill="#9a9a9a"/>
+  <circle cx="174" cy="81" r="8" fill="#bfc6d8"/>
+  <path d="M214 64 L221 89 L247 97 L221 104 L214 130 L206 104 L180 97 L206 89 Z" fill="#d6b969"/>
+  <circle cx="91" cy="169" r="8" fill="#d7dce8"/>
+  <path d="M74 202 h145 v-25 h-15 v-22 h-18 v22 h-16 v-34 q0-26-24-26 q-24 0-24 26 v34 h-18 v-20 h-17 v20 h-13z" fill="#d4d6dc" stroke="#9ba0aa" stroke-width="2"/>
+  <path d="M105 202 v-43 h82 v43" fill="#d9dde4" opacity=".95"/>
+  <ellipse cx="146" cy="160" rx="34" ry="17" fill="#dfe3eb"/>
+  <path d="M112 160 q34-42 68 0" fill="#c7cbd4" stroke="#969ba6" stroke-width="2"/>
+
+  <rect x="252" y="73" width="595" height="20" fill="#b6ad82" stroke="#5d563c" stroke-width="2"/>
+  <rect x="264" y="77" width="575" height="12" fill="#d9d1a3"/>
+  <text x="258" y="115" font-family="Arial Black, Tahoma, sans-serif" font-size="53" font-weight="900" fill="#111">SWG</text>
+
+  <rect x="248" y="118" width="605" height="90" fill="url(#blue)" stroke="#111" stroke-width="3"/>
+  <text x="266" y="192" font-family="Georgia, Times New Roman, serif" font-size="80" font-weight="700" fill="#f3f3f3" stroke="#0a0a0a" stroke-width="2.5" paint-order="stroke">Elder Haven</text>
+
+  <rect x="260" y="214" width="587" height="16" fill="#b6ad82" stroke="#5d563c" stroke-width="2"/>
+  <rect x="270" y="218" width="567" height="8" fill="#d9d1a3"/>
+  <text x="278" y="258" font-family="Courier New, monospace" font-size="23" font-weight="700" letter-spacing="1.3" fill="#171717">A Morrowind/Retro RPG Based SWG Experience</text>
+</svg>
